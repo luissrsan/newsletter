@@ -16,7 +16,7 @@ color:hsl(234, 29%, 20%);
 background-color: white;
 display:flex;
 justify-content: start;
-width:600px;
+width:700px;
 margin:0 auto;
 
 height:400px;
@@ -28,7 +28,7 @@ border-radius:20px;
     display:flex;
     flex-direction:column;
     margin:0px;
-  padding:24px;
+ 
 }
 
 .left{
